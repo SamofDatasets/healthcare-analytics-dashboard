@@ -100,11 +100,10 @@ The dataset consists of **8 interconnected tables** representing different aspec
 
 ## 🔗 Access Dashboard & Dataset
 
-* [**Datasets(CSV)**](https://github.com/SamofDatasets/power-bi-bmw-car-sales-analytics/blob/main/01%20BMW_Sales_Data.csv)
-* [**Power BI Dashboard (.pbix)**](https://github.com/SamofDatasets/power-bi-bmw-car-sales-analytics/blob/main/04%20BMW%20Car%20Sales%20Analytics.pbix)
+* [**Datasets (CSV)**](https://github.com/SamofDatasets/healthcare-analytics-dashboard/tree/main/Datasets)
 * [**Live/Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMmU0NWI2ZjItNWZiYS00YmNmLTk1NDMtZWM5NWQwNDRmMTRkIiwidCI6IjljNmZkNWQ5LWMyMjgtNGIyMi1iZTljLTg5ZTk2NTgwZWRiMSJ9)
-* [**Power BI Dashboard image 1 (Dashboard.png)**](https://github.com/SamofDatasets/power-bi-bmw-car-sales-analytics/blob/main/02%20BMW%20Overview%20Dashboard%20Page%201.PNG)
-* [**Power BI Dashboard image 2 (All Models.png)**](https://github.com/SamofDatasets/power-bi-bmw-car-sales-analytics/blob/main/03%20BMW%20All%20Models%20Page%202.PNG)
+* [**Dashboard Light Mode Image**](https://github.com/SamofDatasets/healthcare-analytics-dashboard/blob/main/01%20DASHBOARD%20LIGHT%20MODE.png)
+* [**Dashboard Dark Mode Image**](https://github.com/SamofDatasets/healthcare-analytics-dashboard/blob/main/02%20DASHBOARD%20DARK%20MODE.png)
 
 ---
 
