@@ -1,4 +1,7 @@
-# Velia Hospital Healthcare Analytics Dashboard
+# Hospital Financial & Operational Analytics Dashboard — Power BI
+A multi-page Power BI dashboard analysing hospital revenue, provider performance, and patient trends across an 8-table star schema data model. Covers financial KPIs (revenue, insurance coverage, out-of-pocket costs), departmental performance, diagnosis trends, and geographic revenue distribution. Built with custom DAX measures, dynamic filtering, and light/dark mode theming.
+ * Tools used: Power BI, Power Query, DAX, Data Modelling
+ * Key insight: £3.4M hospital revenue analysed across 4,973 patients, with cardiology and orthopaedics identified as top-performing departments.
 
  <img width="1425" height="791" alt="Image" src="https://github.com/user-attachments/assets/90d964da-626a-4dc2-a65b-102633a9af95" />
 
